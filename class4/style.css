@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0%;
+    border: 2px solid rgb(174, 0, 0);
+}
+header{
+    background-color: #326155;
+    width: 100%;
+    height: 319px;
+    margin: 20px auto;
+    text-align: center;
+   
+}
+header img{
+    padding: 37px 0px 0px 0px;
+}
+header h1{
+    padding:0px ;
+}
+section{
+    padding: 50px 348px;
+    background-color:white;}
+.blog{
+    width: 583px;
+    height: 604px;
+    margin: auto;
+    background-color: #D7F2EC;
+    padding: 42px;
+}
+.blog img{
+    width: 100%;
+}
+.blog h2{
+    color: #326155;
+    font-size: 36px;
+    margin: 19px 0px;
+}
+.blog p{
+    font-size: 16px;
+}
+section button{
+    color: #ffffff;
+    background-color: #326155;
+    width: 100%;
+    height: 49px;
+    font-size: 24px;
+
+}
+footer{
+    background-color: #326155;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+
+}
+footer p{
+    padding: 21px;
+    color: white;
+}

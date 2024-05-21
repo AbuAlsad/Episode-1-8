@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.one{
+    font-size: 40px;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+.two{
+    font-size: 78px;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+.button{
+    text-align: center;
+}
+.service{
+    text-align: center;
+    text-decoration: underline;
+}
+.first{
+    width: 33.3%;
+}
+.second{
+    width: 33.3%;
+    text-align: left;
+}
+.third{
+    width: 33.3%;
+}

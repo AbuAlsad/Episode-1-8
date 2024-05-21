@@ -1,0 +1,19 @@
+h1 {color:red;
+border: 2px solid blueviolet;
+padding: 5px,0px;
+margin: 2px,7px,10px,15px;}
+body {
+    background-color: aquamarine;
+ background-attachment: scroll;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+
+}
+address{color:rgb(0, 0, 0);
+text-align: center;}
+a:link{color:rgb(230, 230, 230);}
+a:hover{color: rgb(205, 50, 50);}
+a:visited{color: rgb(19, 199, 49);}
+a:active{color: rgb(230, 226, 10);}

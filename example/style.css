@@ -1,0 +1,52 @@
+/* /* /* /* // managers */
+/* .manager-headline {
+    font-size: 24px;
+    color: $xcellent-blue; */
+   /*  text-align: center; */
+/* } */ /* */ 
+/* 
+.manager-textbox {
+    background-color: #f4f6f9;
+    box-shadow: 0 -3px 0 0 #303f9f;
+    position: relative;
+    margin-top: 60px;
+} */
+/* 
+.manager-text {
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px; */
+/* } */
+/* 
+/* #manager  .teaser-header-what {
+    padding-left: 0px; */
+/* .manager-portrait {
+ position: absolute;
+ top: -50px;
+ left: 50%;
+ -webkit-transform: translateX(-50%);
+ transform: translateX(-50%);
+ border-radius: 50%;
+ border: solid 2px red;
+} */
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgu{
+    width: 100px;
+    position: relative;
+    top: 50px;
+}
+/* .box1{
+   position: relative;
+   padding-top: 50px; */
+
+.box2{
+    border: 2px solid blue;
+    width: 350px;
+    padding: 20px;
+}
